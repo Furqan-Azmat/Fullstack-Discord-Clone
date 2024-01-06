@@ -1,7 +1,7 @@
 
 export default function Home() {
   return (
-    <p className = "text-3xl font-bold text-indigo-500">Test for project
+    <p className = "text-3xl font-bold text-indigo-500">Test for project, more testing
     </p>
   )
 }
